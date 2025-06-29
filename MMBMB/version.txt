@@ -1,3 +1,3 @@
-v1.0.0
+v1.0.1
 What`s new: Added Support to collect multiple offers
 Download: https://drive.google.com/drive/folders/1aEoSlE6NC2T2R7SVvf-pb3Rbu9wsQ_yk
